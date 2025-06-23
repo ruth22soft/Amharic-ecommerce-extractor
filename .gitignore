@@ -25,3 +25,10 @@ data/
 
 # Logs
 *.log
+
+.venv/
+__pycache__/
+*.pyc
+.dvc/tmp
+!.dvc/
+!*.dvc
